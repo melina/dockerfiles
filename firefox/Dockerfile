@@ -12,4 +12,4 @@ RUN mkdir -p /home/firefox && \
 USER firefox
 ENV HOME /home/firefox
 
-CMD /usr/bin/firefox
+CMD ["/usr/bin/firefox"]
