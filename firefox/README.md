@@ -1,5 +1,5 @@
 
-### Running firefox inside a docker container (MacOS)
+### Running firefox inside a docker container (macOS)
 
 Install XQuartz and restart your macOS
 
